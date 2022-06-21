@@ -7,6 +7,7 @@ The other dependencies are just for view like using ascii fonts with [figlet](ht
 
 ## Why?
 It's a anotation to myself for small projects and ideas that can use terminal system in JS or TS.
+
 Eg. [Opensea Collection Refresher](https://github.com/JVmano/opensea-metadata-refresher) made by myself for pure utiliy :wink:
 
 ## How to use
