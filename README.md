@@ -1,5 +1,5 @@
 # NodeJS Interactive Terminal
-Simple interactive terminal for nodeJS
+This is a boilerplate for simple interactive terminal for nodeJS
 
 ## How?
 This little project works mainly with [Inquirer](https://www.npmjs.com/package/inquirer) by doing the questions and saving the response.
